@@ -14,3 +14,6 @@ git branch -M main
 git remote add origin https://github.com/Harsha-2324/CypherRogDemo-2.git
 git push -u origin main
 ```
++ I've created an empty folder in file explorer and open the file in CMD.
++ Just copy paste and execute each lines.
++ This first line `echo "# CypherRogDemo-2" >> README.md` created a README.md with a content `# CypherRogDemo-2`
